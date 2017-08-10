@@ -26,3 +26,4 @@ lastly requestanimationframe calls the function many times it never ends. It is 
 
 ![alt text](https://i.itsosticky.com/1ysr6hf.png)
 
+some extra things like make the balls grow smaller and larger
